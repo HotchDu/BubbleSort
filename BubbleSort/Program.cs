@@ -21,7 +21,7 @@ namespace BubbleSort
             Console.WriteLine();
 
             #region//冒泡排序：大数上浮(向后移动)            
-            int temp = 0;
+            int temp; //不可赋值为0；
             for (int i = 0; i < arr.Length; i++)
             {
                 for (int j = 0; j < i; j++)

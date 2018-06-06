@@ -4,3 +4,9 @@ D:\Learning\C#\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
 D:\Learning\C#\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
 D:\Learning\C#\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
 D:\Learning\C#\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+D:\Learning\Git\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Learning\Git\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Learning\Git\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+D:\Learning\Git\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Learning\Git\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Learning\Git\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
