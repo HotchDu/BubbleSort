@@ -20,8 +20,8 @@ namespace BubbleSort
             }
             Console.WriteLine();
 
-            #region//冒泡排序：大数上浮(向后移动)            
-            int temp; //不可赋值为0；
+            //冒泡排序：大数上浮(向后移动)            
+            int temp; //不可赋值为0，0也为数字；
             for (int i = 0; i < arr.Length; i++)
             {
                 for (int j = 0; j < i; j++)
@@ -43,8 +43,7 @@ namespace BubbleSort
                 //    Console.Write(arr[z] + " ");
                 //}
                 //Console.WriteLine();
-            }
-            #endregion
+            }          
 
             Console.WriteLine("排序后的数组为：");
             for (int i = 0; i < arr.Length; i++)
